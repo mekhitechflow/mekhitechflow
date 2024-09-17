@@ -16,7 +16,7 @@ Passionate about exploring the ever-evolving world of Information Technology, I 
   - [Network File Shares and Permissions](https://github.com/mekhitechflow/file-shares-and-permissions)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mekhitechflow/azure-network-protocols)
 - <b>Virtual Private Networks VPN's</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mekhitechflow/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mekhitechflow/protonvpn)
 
 <h2>🤳 Connect with me:</h2>
 
