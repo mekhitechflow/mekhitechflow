@@ -12,8 +12,8 @@ Passionate about exploring the ever-evolving world of Information Technology, I 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mekhitechflow/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mekhitechflow/configure-ad)
-  - [Building Intuition with DNS](https://github.com/JasonDelahoussaye/BuildingIntuitionWithDNS)
-  - [Network File Shares and Permissions](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions)
+  - [Building Intuition with DNS](https://github.com/mekhitechflow/dns-intuition)
+  - [Network File Shares and Permissions](https://github.com/mekhitechflow/file-shares-and-permissions)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mekhitechflow/azure-network-protocols)
 - <b>Virtual Private Networks VPN's</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mekhitechflow/azure-network-protocols)
